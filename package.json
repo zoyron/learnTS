@@ -1,0 +1,15 @@
+{
+  "name": "learnts",
+  "version": "1.0.0",
+  "description": "Types scare me, so like any other level headed person I decided to jump into them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
