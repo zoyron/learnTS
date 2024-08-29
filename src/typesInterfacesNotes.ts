@@ -84,7 +84,7 @@ interface Rectangle {
  * Let's say there are 10 more functions for 10 such operations
  * and as the time passed, you created 10 more shapes
  * passing so many types in so many functions would be a real hassle
- * So, one usecase of types is to creates "ands" and "ors"
+ * So, one use case of types is to creates "ands" and "ors"
  */
 
 // the other way of passing types to the function arguments is to create "ands" or "ors" using types
