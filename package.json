@@ -4,6 +4,8 @@
   "description": "Types scare me, so like any other level headed person I decided to jump into them.",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
