@@ -97,3 +97,22 @@ const scores: number[] = [80, 90, 100];
 const subjects: string[] = ["maths", "english", "hindi"];
 console.log(scores);
 console.log(subjects);
+
+// creating an array of a complex data structure
+interface Book {
+  title: string;
+  author: string;
+  pages: number;
+}
+
+/**
+ * arrayName: number[] this means that every element of the array is a number
+ * so arrayName: complexDataType[] means that every element of the array is a complex data type
+ */
+
+const library: Book[] = [
+  { title: "Learn typescript", author: "Sagar", pages: 10 },
+  { title: "Learn DataStructures", author: "Sagar Arora", pages: 1000 },
+];
+
+console.log(library);
