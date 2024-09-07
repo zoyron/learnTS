@@ -1,3 +1,8 @@
-dist
-node_modules
-*.js
+.idea/**
+**/node_modules/**
+**/build/**
+.vscode/**
+coverage/**
+logs/**
+**/*.env
+dist/
